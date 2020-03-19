@@ -1,4 +1,4 @@
-#Irem Ugurlu
+# Irem Ugurlu
 
 - This is a repo for my personal website which includes info about my personal life, education and work expereince.
 
