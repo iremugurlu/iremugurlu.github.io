@@ -4,5 +4,5 @@
 
 - Design of page is inspired by [HTML5UP](https://html5up.net/hyperspace)
 
-[link 1](index.html)
+[link 1](pictures/index.html)
 
