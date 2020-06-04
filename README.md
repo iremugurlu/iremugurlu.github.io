@@ -1,5 +1,25 @@
-# Irem Ugurlu
+[1](images)
 
-- This is a repo for my personal website which includes info about my personal life, education and work expereince.
+[2](assets)
 
-- Design of page is inspired by [HTML5UP](https://html5up.net/hyperspace)
+[3](assets/css/images)
+
+[4](assets/css)
+
+[5](assets/js)
+
+[6](assets/sass)
+
+[7](assets/sass/base)
+
+[8](assets/sass/components)
+
+[9](assets/sass/layout)
+
+[10](assets/sass/libs)
+
+[11](assets/webfonts)
+
+[12](ceren)
+
+[13](assets/irem)
