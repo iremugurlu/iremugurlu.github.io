@@ -8,5 +8,7 @@
 
 [link 2](pictures/image1.jpg)
 
+[link 3](elements.html)
+
 [link directory](assets/js)
 
