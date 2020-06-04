@@ -6,4 +6,4 @@
 
 [link 1](pictures/index.html)
 
-[link 2](work.html)
+[link 2](pictures/work.html)
