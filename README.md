@@ -6,5 +6,7 @@
 
 [link 1](pictures/education.html)
 
+[link 2](pictures/image1.jpg)
+
 [link directory](assets/js)
 
