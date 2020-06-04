@@ -6,5 +6,5 @@
 
 [link 1](images/education.html)
 
-[link directory](images)
+[link directory](pictures)
 
