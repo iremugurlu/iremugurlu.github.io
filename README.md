@@ -58,4 +58,4 @@ build.gradle
 
 [denem 2](src/main/images)
 
-[denem 3](src/main/resources)
+[denem 3](resources/icons)
