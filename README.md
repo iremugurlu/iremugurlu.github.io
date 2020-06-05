@@ -57,3 +57,5 @@ build.gradle
 [deneme](src/main/java)
 
 [denem 2](src/main/images)
+
+[denem 3](src/main/resources)
