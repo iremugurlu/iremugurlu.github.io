@@ -53,3 +53,5 @@ build.gradle
 
 [1]: https://github.com/tudorpopovici1/demo-plugin-jetbrains-project/blob/master/src/main/images/image1.png
 [2]: src/main/images/image1.png
+
+[deneme](src/main/java)
