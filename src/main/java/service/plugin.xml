@@ -1,0 +1,38 @@
+<idea-plugin>
+    <id>com.toy.plugin.toy_plugin</id>
+    <name>Summary tool</name>
+    <vendor email="alextudor99@gmail.com">Tu Delft Student Group</vendor>
+
+    <description>Toy plugin meant to provide a short summary of the methods inside of an open file </description>
+
+    <depends>org.intellij.plugins.markdown</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <projectService serviceImplementation="service.SummaryService"/>
+        <projectService serviceImplementation="service.FileStatisticsService"/>
+        <projectService serviceImplementation="service.MarkdownService"/>
+    </extensions>
+
+
+    <actions>
+        <action id="MethodSummary" class="view.MethodAction" text="Summary Report" description="Run method summary report">
+            <add-to-group group-id="ToolsMenu" anchor="last"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="control alt G"/>
+            <!-- Except to the "Mac OS X" keymap and its children -->
+            <keyboard-shortcut keymap="Mac OS X" first-keystroke="control alt G" remove="true"/>
+            <!-- The "Mac OS X 10.5+" keymap and its children will have only this keyboard shortcut for this action.  -->
+            <keyboard-shortcut keymap="Mac OS X 10.5+" first-keystroke="control alt G" replace-all="true"/>
+            <mouse-shortcut keymap="$default" keystroke="control button3 doubleClick"/>
+        </action>
+        <action id="MarkdownSummary" class="MarkdownAction" text="Markdown Files Report" description="Run markdown files summary report">
+            <add-to-group group-id="ToolsMenu" anchor="last"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="control alt F"/>
+            <!-- Except to the "Mac OS X" keymap and its children -->
+            <keyboard-shortcut keymap="Mac OS X" first-keystroke="control alt F"  remove="true"/>
+            <!-- The "Mac OS X 10.5+" keymap and its children will have only this keyboard shortcut for this action.  -->
+            <keyboard-shortcut keymap="Mac OS X 10.5+" first-keystroke="control alt F"  replace-all="true"/>
+            <mouse-shortcut keymap="$default" keystroke="control button3 doubleClick"/>
+        </action>
+    </actions>
+</idea-plugin>
