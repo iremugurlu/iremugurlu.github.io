@@ -55,3 +55,5 @@ build.gradle
 [2]: src/main/images/image1.png
 
 [deneme](src/main/java)
+
+[denem 2](src/main/images)
