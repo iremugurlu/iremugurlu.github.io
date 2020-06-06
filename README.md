@@ -6,4 +6,5 @@
 
 [link 1](pictures/index.html)
 
-[test link](pictures/directory)
+[link 1](pictures/index.html)
+
