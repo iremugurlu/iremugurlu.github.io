@@ -6,8 +6,8 @@
 
 [link x 1](./personal.html)
 
-[link x 2](.././assets/sass/./main.scss)
+[link x 2](.././assets/sass/./main.scss
 
-[link x 3](./.././pictures/x.html)
+[link x 3](./.././pictures/x.html
 
 
