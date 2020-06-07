@@ -1,3 +1,2 @@
-[link](element.html)
+[link](pictures/element.html)
 
-[link other](generic.html)
