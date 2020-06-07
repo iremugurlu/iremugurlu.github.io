@@ -4,4 +4,5 @@
 
 [link new 2](pictures/image2.jpg)
 
-[invalid](../pictures/x.md)
+[link other](generic.html#L3)
+
