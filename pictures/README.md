@@ -8,6 +8,8 @@
 
 [link x 2](../assets/test.html)
 
-[link x 3](./.././pictures/educa.html)
+[link x 3](../assets/educa.html)
+
+[link x 4](./../pictures/image2.jpg/./.././personal.html/.)
 
 
