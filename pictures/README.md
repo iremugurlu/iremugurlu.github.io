@@ -4,7 +4,7 @@
 
 - Design of page is inspired by [HTML5UP](https://html5up.net/hyperspace)
 
-[link other](../index.html)
+[link other](../educa.html)
 
 
 
