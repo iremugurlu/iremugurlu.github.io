@@ -4,7 +4,10 @@
 
 - Design of page is inspired by [HTML5UP](https://html5up.net/hyperspace)
 
-[link other](educa.html)
+[link x 1](./personal.html)
 
+[link x 2](.././assets/sass/./main.scss)
+
+[link x 3](./.././pictures/x.html)
 
 
