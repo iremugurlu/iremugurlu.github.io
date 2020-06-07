@@ -6,7 +6,7 @@
 
 [link x 1](../directory/personal.html)
 
-[link x 2](test.html/.)
+[link x 2](test.html/.
 
 [link x 3](./.././pictures/x.html
 
