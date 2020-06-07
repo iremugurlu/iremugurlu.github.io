@@ -6,5 +6,7 @@
 
 [link other](../index.html)
 
-[link line](https://github.com/iremugurlu/iremugurlu.github.io/blob/e75496030b967f84faceebfe01797e64b1d3541d/index.html#L5)
+[link line][1]
+
+[1]: https://github.com/iremugurlu/iremugurlu.github.io/blob/e75496030b967f84faceebfe01797e64b1d3541d/index.html#L5
 
