@@ -11,7 +11,3 @@
 [link x 3](../assets/educa.html)
 
 [link x 4](../personal.html)
-
-[link x 5](./element.html#L5)
-
-[link x 6](element.html#L5)
