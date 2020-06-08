@@ -1,4 +1,4 @@
-[1](personal.html#L5)
+[1](assets/personal.html#L5)
 
-[2](one/deneme.md#L7)
+[2](./assets/../one/deneme.md#L9)
 
