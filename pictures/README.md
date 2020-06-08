@@ -1,6 +1,6 @@
 [1](../assets/personal.html#L5)
 
-[2](../assets/../one/deneme.md#L9)
+[2](one/deneme.md#L8)
 
 [deneme](./../one/deneme.md)
 
