@@ -4,5 +4,5 @@
 
 [link new 2](pictures/image2.jpg)
 
-[link other](generic.html#L3)
+[link other](pictures/generic.html#L3)
 
