@@ -6,4 +6,4 @@
 
 [link other](pictures/generic.html#L3)
 
-[link multiple](pictures/generic.html#L8-L10)
+[link multiple](pictures/generic.html#L10-L12)
