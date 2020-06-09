@@ -1,3 +1,3 @@
 [test](assets/sass/personal.html)
 
-[link](education.html#L3-L7)
+[link](education.html#L5-L9)
