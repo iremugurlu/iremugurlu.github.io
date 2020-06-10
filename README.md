@@ -4,6 +4,8 @@
 
 [test space directory](doc/Sprint Retrospectives)
 
+[test directory 2](doc)
+
 [test directory](doc/../src/./main)
 
 [test %20 directory](doc/Sprint Retrospectives)
