@@ -10,7 +10,7 @@
 
 [test normal file](src/test/java/new.txt)
 
-[test file](build.gradle)
+[test file](resources/build.gradle)
 
 [test 4](src/test/../main/java/MarkdownAction.java)
 
