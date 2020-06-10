@@ -1,9 +1,27 @@
-[test 1](doc/Project%20Plan.pdf)
+[test %20 file](doc/Project%20Plan.pdf)
 
-[test 2](doc/Project Plan.pdf)
+[test space file](doc/Project Plan.pdf)
 
-[test 3](doc/Sprint Retrospectives)
+[test space directory](doc/Sprint Retrospectives)
 
-[test 4](doc/Sprint%20Retrospectives)
+[test %20 directory](doc/Sprint%20Retrospectives)
 
-[test 5](src/test/java/new.txt)
+[test normal file](src/test/java/new.txt)
+
+[test file](build.gradle)
+
+[test 1](../kotlin)
+
+[test 2](..)
+
+[test 3](../..)
+
+[test 4](src/test/../main/java/MarkdownAction.java)
+
+[test 5](./resources/pics)
+
+[link](https://www.google.com)
+
+[itself](README.md)
+
+[Irem Ugurlu](https://gitlab.ewi.tudelft.nl/iugurlu)
