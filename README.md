@@ -10,15 +10,7 @@
 
 [test file](build.gradle)
 
-[test 1](../kotlin)
-
-[test 2](..)
-
-[test 3](../..)
-
 [test 4](src/test/../main/java/MarkdownAction.java)
-
-[test 5](./resources/pics)
 
 [link](https://www.google.com)
 
