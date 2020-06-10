@@ -1,7 +1,3 @@
-@groovy.transform.Field private org.gradle.plugin.use.PluginDependenciesSpec spec
-@groovy.transform.Field private var
-spec
-
 group 'markdown-plugin'
 version '1.0'
 
