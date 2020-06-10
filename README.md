@@ -1,12 +1,12 @@
-[test %20 file](doc/Project%20Plan.pdf)
+[test %20 file](Project Plan.pdf)
 
-[test space file](doc/Project Plan.pdf)
+[test space file](Project Plan.pdf)
 
-[test space directory](doc/Sprint Retrospectives)
+[test space directory](Sprint Retrospectives)
 
 [test directory](doc/../src/./main)
 
-[test %20 directory](doc/Sprint%20Retrospectives)
+[test %20 directory](Sprint Retrospectives)
 
 [test normal file](src/test/java/new.txt)
 
