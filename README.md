@@ -2,7 +2,7 @@
 
 [link 2](pictures/elements.html)
 
-[link 3](generic.html)
+[link 3](src/generic.html)
 
 [link 4](pictures/education.html)
 
