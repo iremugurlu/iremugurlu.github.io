@@ -7,3 +7,5 @@
 [link other](generic.html#L3)
 
 [link multiple](generic.html#L10-L12)
+
+[relative](directory/../assets/test.html)
