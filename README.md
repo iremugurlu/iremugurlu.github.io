@@ -2,4 +2,3 @@
 
 [link 2](pictures/elements.html)
 
-[test whitespace](pictures/newdirectory/Project Plan.pdf)
