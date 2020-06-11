@@ -6,6 +6,6 @@
 
 [link x 1](../../personal.html)
 
-[link x 2](../../assets/test.html)
+[link x 2](../../directory/assets/test.html)
 
-[link x 3](../../assets/educa.html)
+[link x 3](../../directory/assets/educa.html)
