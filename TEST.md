@@ -1,6 +1,6 @@
 [link](doc/pictures/element.html)
 
-[link 2](personal.html)
+[link 2](directory/personal.html)
 
 [link new 2](doc/pictures/image2.jpg)
 
@@ -8,4 +8,4 @@
 
 [link multiple](generic.html#L10-L12)
 
-[relative](directory/../assets/././../doc/pictures/element.html/./../README.md)
+[link pdf](doc/Deneme                Ben.pdf)
