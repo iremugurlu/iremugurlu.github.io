@@ -8,4 +8,4 @@
 
 [link multiple](generic.html#L10-L12)
 
-[link pdf](doc/Deneme                Ben.pdf)
+[link pdf](doc/pictures/.././../assets)
