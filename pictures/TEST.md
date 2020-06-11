@@ -1,0 +1,1 @@
+[link deneme](../deneme.md)
