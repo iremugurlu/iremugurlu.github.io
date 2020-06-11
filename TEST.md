@@ -8,4 +8,4 @@
 
 [link multiple](generic.html#L10-L12)
 
-[relative](directory/../assets/test.html)
+[relative](directory/../assets/././../doc/pictures/element.html/./../README.md)
