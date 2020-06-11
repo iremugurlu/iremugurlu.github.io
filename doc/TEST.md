@@ -8,4 +8,4 @@
 
 [link multiple](generic.html#L10-L12)
 
-[link pdf](doc/main/java/icons,)
+[link pdf](pictures/main)
