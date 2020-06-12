@@ -1,3 +1,3 @@
 [test](assets/sass/personal.html)
 
-[link](pictures/education.html#L4-L6)
+[link](pictures/education.html#L4-L10)
