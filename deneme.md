@@ -1,5 +1,5 @@
-[test](sass/personal.html)
+[test](assets/sass/personal.html)
 
-[link](education.html#L4-L7)
+[link](pictures/education.html#L4-L7)
 
-[link new](pictures/work.html#L41-L44)
+[link new](work.html#L41-L44)
