@@ -14,7 +14,7 @@
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[arbitrary case-insensitive reference text]: pictures/newdir/elements.html
+[arbitrary case-insensitive reference text]: pictures/image1.jpg
 
 [You can use numbers for reference-style link definitions][1]
 
