@@ -14,8 +14,8 @@
 
 [You can use numbers for reference-style link definitions][1]
 
-[1]: https://github.com/iremugurlu/iremugurlu.github.io/blob/4ab495de3e1652ab0d0e334c67c230f77283899c/generic.html#L11
+[1]: https://github.com/iremugurlu/iremugurlu.github.io/blob/93b129dc5fa9e96bdb0b1399d6528f42f8a04eb3/generic.html#L33
 
-deneme or <https://github.com/iremugurlu/iremugurlu.github.io/blob/4ab495de3e1652ab0d0e334c67c230f77283899c/generic.html#L37> and 
+deneme or <https://github.com/iremugurlu/iremugurlu.github.io/blob/93b129dc5fa9e96bdb0b1399d6528f42f8a04eb3/generic.html#L29-L31> and 
 
-https://github.com/iremugurlu/iremugurlu.github.io/blob/4ab495de3e1652ab0d0e334c67c230f77283899c/generic.html#L20
+https://github.com/iremugurlu/iremugurlu.github.io/blob/93b129dc5fa9e96bdb0b1399d6528f42f8a04eb3/generic.html#L15
