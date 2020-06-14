@@ -9,7 +9,7 @@
 
 
 
-[relative link to lines](generic.html#L20-L25)
+[relative link to lines](generic.html#L5-L10)
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
@@ -19,5 +19,5 @@
 
 [1]: pictures/newdir/irem.md
 
-deneme or <https://github.com/iremugurlu/iremugurlu.github.io/commit/93b129dc5fa9e96bdb0b1399d6528f42f8a04eb3/generic.html#L4> 
+[permalink github](https://github.com/tudorpopovici1/demo-plugin-jetbrains-project/blob/cf925c192b45c9310a2dcc874573f393024f3be2/src/main/java/actions/MarkdownAction.java#L55)
 
