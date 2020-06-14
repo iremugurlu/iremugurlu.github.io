@@ -1,4 +1,4 @@
-[relative link to file](pictures/newdir/elements.html)
+
 
 [relative link to file 2](doc/../pictures/./edu.html)
 
