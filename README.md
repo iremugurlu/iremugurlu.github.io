@@ -17,7 +17,7 @@
 
 [You can use numbers for reference-style link definitions][1]
 
-[1]: pictures/newdirectory/elements.html
+[1]: pictures/newdirectory
 
-deneme or <pictures/newdirectory/elements.html> and 
+deneme or <pictures/newdir/elements.html> and 
 
