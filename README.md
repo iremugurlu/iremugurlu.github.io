@@ -4,10 +4,11 @@
 
 [relative link directory](newdir)
 
+[relative](pictures/edu.html)
+
+[relative 2](pictures/TEST.md)
 
 [relative link to line](https://github.com/iremugurlu/iremugurlu.github.io/commit/93b129dc5fa9e96bdb0b1399d6528f42f8a04eb3/generic.html#L4)
-
-
 
 [relative link to lines](generic.html#L5-L10)
 
