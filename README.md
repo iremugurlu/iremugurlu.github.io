@@ -2,3 +2,5 @@
 
 [link 4](edu.html)
 
+[link directory](pictures/newdirectory)
+
