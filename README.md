@@ -1,10 +1,10 @@
 
 
-[relative link to file 2](doc/../pictures/./edu.html)
+[relative link to file 2](doc/edu.html)
 
 [relative link directory](newdir)
 
-[relative](pictures/edu.html)
+[relative](doc/edu.html)
 
 [relative 2](pictures/TEST.md)
 
