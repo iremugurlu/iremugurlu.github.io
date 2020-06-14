@@ -2,7 +2,7 @@
 
 [relative link to file 2](doc/../pictures/./edu.html)
 
-[relative link directory](pictures/newdir)
+[relative link directory](newdir)
 
 
 [relative link to line](https://github.com/iremugurlu/iremugurlu.github.io/commit/93b129dc5fa9e96bdb0b1399d6528f42f8a04eb3/generic.html#L4)
