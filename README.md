@@ -4,3 +4,5 @@
 
 [link directory](pictures/newdirectory)
 
+[test link](generic.html)
+
