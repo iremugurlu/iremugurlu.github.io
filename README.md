@@ -5,7 +5,7 @@
 [relative link directory](pictures/newdir)
 
 
-[relative link to line](generic.html#L19)
+[relative link to line](https://github.com/iremugurlu/iremugurlu.github.io/commit/93b129dc5fa9e96bdb0b1399d6528f42f8a04eb3/generic.html#L4)
 
 
 
@@ -13,12 +13,11 @@
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[arbitrary case-insensitive reference text]: doc
+[arbitrary case-insensitive reference text]: pictures/newdirectory/elements.html
 
 [You can use numbers for reference-style link definitions][1]
 
-[1]: https://github.com/iremugurlu/iremugurlu.github.io/commit/15d0f9c6052bcdc921cd90590962ddd58d5be134/README.md#L8
+[1]: pictures/newdirectory/elements.html
 
-deneme or <https://github.com/iremugurlu/iremugurlu.github.io/commit/15d0f9c6052bcdc921cd90590962ddd58d5be134/README.md#L8> and 
+deneme or <pictures/newdirectory/elements.html> and 
 
-https://github.com/iremugurlu/iremugurlu.github.io/commit/15d0f9c6052bcdc921cd90590962ddd58d5be134/README.md#L8
