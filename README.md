@@ -13,11 +13,11 @@
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[arbitrary case-insensitive reference text]: pictures/newdirectory/elements.html
+[arbitrary case-insensitive reference text]: pictures/newdir/elements.html
 
 [You can use numbers for reference-style link definitions][1]
 
-[1]: pictures/newdirectory
+[1]: pictures/newdir/irem.md
 
-deneme or <pictures/newdir/elements.html> and 
+deneme or <https://github.com/iremugurlu/iremugurlu.github.io/commit/93b129dc5fa9e96bdb0b1399d6528f42f8a04eb3/generic.html#L4> 
 
