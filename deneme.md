@@ -1,4 +1,4 @@
-[test](assets/sass/layout/personal.html)
+[test](assets/sass/components/personal.html)
 
 [link](doc/edu.html#L9-L12)
 
