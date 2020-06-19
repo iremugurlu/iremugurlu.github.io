@@ -6,4 +6,4 @@
 
 [link 4](../directory/assets/./../../doc)
 
-[link web](https://github.com/iremugurlu/iremugurlu.github.io/blob/048174514856b4570fd5a5a12831de46d79007f8/generic.html#L40-L45)
+[link web](https://github.com/iremugurlu/iremugurlu.github.io/blob/bc1dc06f258480382156c4e4529674cca7699ead/generic.html#L44-L49)
