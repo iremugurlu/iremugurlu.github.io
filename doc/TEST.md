@@ -6,4 +6,4 @@
 
 [link 4](../directory/assets/./../../doc)
 
-[link web](https://github.com/iremugurlu/iremugurlu.github.io/blob/554521f9ee63b1caf8e995c8b10d9dfdbeaa0332/build.gradle#L12-L15)
+[link web](https://github.com/iremugurlu/iremugurlu.github.io/blob/dbb498dd5559866a77a38ba97c394622386c7df2/generic.html#L36-L40)
